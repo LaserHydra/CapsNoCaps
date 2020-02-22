@@ -1,4 +1,4 @@
-﻿*Caps No Caps* tries sanitize chat messages from any words which appear to be mostly in capital letters.  
+﻿**Caps No Caps** tries sanitize chat messages from any words which appear to be mostly in capital letters.  
 
 ## Permissions
 - `capsnocaps.ignore` -- players with this permission can bypass this chat filter
