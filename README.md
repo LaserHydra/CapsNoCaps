@@ -18,3 +18,6 @@
   "Capital Letter Percentage Threshold (between 0 and 1)": 0.4
 }
 ```
+
+## Credits
+- **PsychoTea**, the original author of v1 of this plugin
